@@ -1,0 +1,6 @@
+# Zavand.Manana.Data.SqlServer
+
+.idea/
+obj/
+bin/
+*.DotSettings.user
